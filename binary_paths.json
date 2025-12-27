@@ -51,5 +51,17 @@
   ],
   "windows_x64_megatools": [
     "windows/x64/megatools/megatools.exe"
+  ],
+  "darwin_x64_megatools": [
+    "darwin/x64/megatools/megatools"
+  ],
+  "darwin_arm64_megatools": [
+    "darwin/arm64/megatools/megatools"
+  ],
+  "linux_x64_megatools": [
+    "linux/x64/megatools/megatools"
+  ],
+  "linux_arm64_megatools": [
+    "linux/arm64/megatools/megatools"
   ]
 }
